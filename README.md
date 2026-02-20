@@ -58,15 +58,10 @@ The **AI Codebase Intelligence Engine** is a next-gen system that **understands 
 ---
 
 ## 📸 Demo
-![Simulator Architecture](./images/fc95717d-3d<img width="712" height="433" alt="The-CamComSim-" src="https://github.com/user-attachments/assets/ade1f1b2-0de9-43be-a20a-2931cae6c20b" />
-35-40e2-9578-e367df5d5b96.png)
-![AST vs Parse Tree](./images/d7fecc1a-a5b0-438d-86b8-f2894e247c70.pn<img width="1024" height="561" alt="lsbasi_part7_ast_01" src="https://github.com/user-attachments/assets/719df6aa-c962-430c-acaa-40d190eaf62a" />
-g)
-![RAG Workflow](./images/cf65133b-75d0-400d-b<img width="1352" height="906" alt="0_StVZbRn8kiZ6BvEO" src="https://github.com/user-attachments/assets/3ada1c67-c0b4-4393-b24e-4897ad9ad0a3" />
-fc0-1efc7f6290b3.png)
-![Static DB to LLM Flow](./images/<img width="2561" height="945" alt="1" src="https://github.com/user-attachments/assets/b60fcb07-a8f3-4def-a4af-76e299d88ead" />
-35924346-eb2a-4230-8217-6d600c6a8cdc.png)
-
+<img src="./images/fc95717d-3dThe-CamComSim-35-40e2-9578-e367df5d5b96.png" alt="Simulator Architecture" width="700"/>
+<img src="./images/d7fecc1a-a5b0-438d-86b8-f2894e247c70.png" alt="AST vs Parse Tree" width="700"/>
+<img src="./images/cf65133b-75d0-400d-b0_StVZbRn8kiZ6BvEO_fc0-1efc7f6290b3.png" alt="RAG Workflow" width="700"/>
+<img src="./images/135924346-eb2a-4230-8217-6d600c6a8cdc.png" alt="Static DB to LLM Flow" width="700"/>
 ---
 
 ## ⚡ Quick Start
