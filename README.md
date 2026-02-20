@@ -4,11 +4,10 @@ Multi-Agent AI Product Architect using role-based LLM agents to autonomously gen
 # 🚀 AI Codebase Intelligence Engine
 **Mini AI Architect for Any GitHub Repository**
 
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/your-username/your-repo)](https://github.com/your-username/your-repo)
-[![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
-[![License](https://img.shields.io/github/license/your-username/your-repo)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)](https://github.com/your-username/your-repo/stargazers)
-
+![Simulator Architecture](./images/fc95717d-3dThe-CamComSim-35-40e2-9578-e367df5d5b96.png)
+![AST vs Parse Tree](./images/d7fecc1a-a5b0-438d-86b8-f2894e247c70.png)
+![RAG Workflow](./images/cf65133b-75d0-400d-b0_StVZbRn8kiZ6BvEO_fc0-1efc7f6290b3.png)
+![Static DB to LLM Flow](./images/135924346-eb2a-4230-8217-6d600c6a8cdc.png)
 ---
 
 ## 📌 Overview
