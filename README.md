@@ -69,14 +69,6 @@ src="https://github.com/user-attachments/assets/adc8a8a1-c79b-4e71-afea-42ed298d
 <img width="1024" height="561" alt="lsbasi_part7_ast_01" 
 src="https://github.com/user-attachments/assets/85852c41-4c25-436e-b76d-19154f957cd4" />
 
-<!-- Additional Image -->
-<img width="2561" height="945" alt="1" 
-src="https://github.com/user-attachments/assets/7767c879-8e90-4546-9dd3-2e033295dbdf" />
-
-<!-- AST Image 2 -->
-<img width="1024" height="561" alt="lsbasi_part7_ast_01" 
-src="https://github.com/user-attachments/assets/c84bbf39-2543-419d-8501-2856fedda56a" />
-
 <!-- Final Image -->
 <img width="1352" height="906" alt="0_StVZbRn8kiZ6BvEO" 
 src="https://github.com/user-attachments/assets/fc0f6c1a-c919-4787-a113-06200da3e173" />
