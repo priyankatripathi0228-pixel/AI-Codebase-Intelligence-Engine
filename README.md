@@ -18,6 +18,19 @@ The **AI Codebase Intelligence Engine** is a next-gen system that **understands 
 
 ---
 
+ai-codebase-engine/
+├── app.py              # Streamlit UI
+├── core/
+│   ├── cloner.py       # GitHub cloning logic
+│   ├── parser.py       # AST/Code splitting logic
+│   ├── brain.py        # RAG & LLM logic
+├── utils/
+│   ├── graph_gen.py    # Dependency mapping
+├── requirements.txt
+└── .env                # API Keys
+
+
+---
 ## 🛠 Features
 - Upload any GitHub repo and get **architecture-level insights**
 - Parse code using **AST**
